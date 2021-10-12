@@ -1,6 +1,5 @@
-
 <?php
-
+/*prueba*/ a
 include 'db.php';
 
 
